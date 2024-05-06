@@ -1,0 +1,2 @@
+# Emote
+sentiment analysis 
